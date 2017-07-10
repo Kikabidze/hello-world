@@ -1,2 +1,4 @@
 # hello-world
-Just other repository
+
+Hi, Humans!
+My name is Kirill.
